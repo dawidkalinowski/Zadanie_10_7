@@ -1,0 +1,16 @@
+body {
+	background-color: darkslategrey;
+	color: white
+}
+
+div {
+	text-align: center;
+}
+
+ul {
+	list-style:  none;
+}
+.column-container {
+	margin: 0 auto;
+	text-align: center;
+}
